@@ -2,6 +2,14 @@
 
 - This is a simple drawing tool built using C++ and the SDL2 library
 
+## Some Creations using this application
+<div style="display: flex; justify-content: space-between;">
+    <img src="examples/origami_disc.png" alt="Logo" style="max-width:28%; height:200px;" />
+    <img src="examples/slab.png" alt="Logo" style="max-width:38%; height:200px;" />
+    <img src="examples/cat.png" alt="Logo" style="max-width:28%; height:200px;" />
+</div>
+
+
 ## Features:
 - Drawing primitive shapes like lines, rectangles, ellipses, scribbling shapes
 - Simple Tools like Eraser, Bucket fill tool
